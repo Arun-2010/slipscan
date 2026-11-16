@@ -203,10 +203,6 @@ Contributions, suggestions, and improvements are welcome!
 3. Make your changes.
 4. Submit a pull request.
 
-## 📄 License
-
-Add your preferred open-source license here.
-
 ---
 
 <p align="center">
